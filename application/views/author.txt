@@ -1,9 +1,0 @@
-/**
- * Controller Class
- * 
- * Description: Controller
- * @author      Charlotte
- * @version     1.0  
- * 
- * Copyright (c) 2018
- */ 
